@@ -1,0 +1,3 @@
+module.exports=[35112,(a,b,c)=>{"use strict";b.exports=a.r(42602).vendored["react-ssr"].ReactDOM},86148,a=>{"use strict";var b=a.i(87924),c=a.i(45431),d=a.i(75711),e=a.i(94439);function f(){return(0,b.jsxs)("div",{className:"flex h-screen bg-background",children:[(0,b.jsx)(d.Sidebar,{}),(0,b.jsxs)("div",{className:"flex-1 flex flex-col overflow-hidden",children:[(0,b.jsx)(c.Header,{}),(0,b.jsx)("main",{className:"flex-1 overflow-y-auto",children:(0,b.jsx)(e.UserProfileSection,{})})]})]})}a.s(["default",()=>f])}];
+
+//# sourceMappingURL=_ce611c14._.js.map
